@@ -7,6 +7,12 @@ const styles = {
   iconContainer: {}
 }
 
+export function getDailyReminderValue () {
+  return {
+    today: "👋 Don't forget to log your data today!"
+  }
+}
+
 export function getMetricMetaInfo (metric) {
   const info = {
     run: {
