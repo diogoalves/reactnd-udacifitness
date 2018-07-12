@@ -2,7 +2,7 @@
 Fitness tracker sample app, built while following [React Developer Nanodegree](https://br.udacity.com/course/react-nanodegree--nd019) third module classes.
 
 ### Demo
-[![Demo](https://img.youtube.com/vi/nz07LF4iqUI/0.jpg)](https://youtu.be/nz07LF4iqUI)
+[![Demo](https://img.youtube.com/vi/YU_dOJkBp7k/0.jpg)](https://youtu.be/YU_dOJkBp7k)
 
 
 # Install and run
